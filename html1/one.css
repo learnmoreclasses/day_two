@@ -1,0 +1,16 @@
+h2 {
+    color: rgb(112, 228, 167);
+}
+
+h1 {
+    color: rgb(192, 151, 39);
+    font-family: verdana;
+    font-size: 300%;
+}
+
+h3 {
+    border: 2px solid rgb(183, 42, 124);
+    padding:40px;
+    margin:40px;
+}
+
